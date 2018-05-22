@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "target": "es5",
+    "moduleResolution": "node",
+    "baseUrl": ".",
+    "outDir": "./lib",
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}

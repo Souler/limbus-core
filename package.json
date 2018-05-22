@@ -1,0 +1,14 @@
+{
+  "name": "limbus-core",
+  "version": "0.0.1",
+  "description": "Limbus core definitions shared among providers and applications",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "repository": "https://github.com/souler/limbus-core",
+  "author": "Juan Jose Herrero Barbosa <https://github.com/souler>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "typescript": "^2.8.3"
+  }
+}
